@@ -1,0 +1,7 @@
+token = ""
+group_token = " "
+userdb = "postgres"
+password_db = ""
+base_name = "vkinder"
+min_age = ""
+max_age = ""
